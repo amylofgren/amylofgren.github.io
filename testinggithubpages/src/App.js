@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <p>Hello World</p>
       <Button color="primary">A Material Button</Button>
+      <p>Adding a paragraph</p>
     </div>
   );
 }
